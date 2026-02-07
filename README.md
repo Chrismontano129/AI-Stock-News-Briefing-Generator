@@ -19,7 +19,7 @@ It pulls recent headlines, applies sentiment analysis using VADER, and provides 
 ## How to Run
 1. Open the notebook file:
    `stock_news_briefing.ipynb`
-2. Paste your Finnhub API key into the notebook
+2. Enter your Finnhub API key when prompted
 3. Change the ticker symbol if desired
 4. Run all cells to generate the briefing
 
