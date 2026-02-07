@@ -23,7 +23,7 @@ It pulls recent headlines, applies sentiment analysis using VADER, and provides 
 3. Change the ticker symbol if desired
 4. Run all cells to generate the briefing
 
-## Example
-Change this line in the notebook:
-```python
-ticker = "TSLA"
+## Example Output
+
+![Example Output](screenshot_output.png)
+
